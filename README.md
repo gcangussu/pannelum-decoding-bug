@@ -4,8 +4,10 @@ Repository to reproduce problem of decoding url from [Pannellum](https://github.
 See [mpetroff/pannellum#611](https://github.com/mpetroff/pannellum/issues/611)
 
 # How to run
+
+In the repository folder, do one of the following.
+
 ## With [serve](https://www.npmjs.com/package/serve)
-In the repository folder run
 ```
 npx serve
 ```
