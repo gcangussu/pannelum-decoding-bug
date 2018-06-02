@@ -12,7 +12,7 @@ npx serve
 
 ## With Python 2
 ```
-python -m SimpleHTTPServer 3000
+python -m SimpleHTTPServer
 ```
 
 ## With Python 3
